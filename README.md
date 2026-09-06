@@ -6,7 +6,12 @@
 
 ###
 
-<p align="left">👋 Hi, I’m <b>Md. Rafiul Islam</b><br>🎓 4th-year Computer Science & Engineering student at <b>BRAC University</b><br>💻 Passionate about **web development, AI, and software engineering**<br>🚀 Currently learning the <b>MERN stack</b> and building projects with <b>Flask</b> & <b>Django</b><br>📚 Interests: federated learning, generative AI, and computer vision<br>🌱 Always exploring new technologies and improving problem-solving skills</p>
+<p align="left">👋 Hi, I’m <b>Md. Rafiul Islam</b><br>
+🎓 4th-year Computer Science & Engineering student at <b>BRAC University</b><br>
+💻 Passionate about <b>full-stack web development, deep learning, and hardware robotics</b><br>
+🚀 Currently building privacy-preserving federated learning pipelines in PyTorch and deploying <b>MERN stack</b> apps via Vercel<br>
+📚 Interests: Federated learning, deep learning, neural networks, multimodal feature clustering, and IoT integrated circuits<br>
+🌱 Always exploring new technologies, refining steganographic algorithms in Python, and problem-solving on LeetCode</p>
 
 ###
 
@@ -25,7 +30,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
